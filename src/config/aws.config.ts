@@ -1,4 +1,3 @@
-// src/config/aws.config.ts
 import * as AWS from "aws-sdk";
 
 AWS.config.update({
